@@ -1,0 +1,2 @@
+untuk memanajemen koding = repositori
+stagging = utk menampung segala perubahan yg ada di repositori
